@@ -5,8 +5,8 @@ I tweet my progress daily on Twitter using the **#100DaysOfCode** hashtag.</br>
 Feel free to reach out to me on Twitter: [@shrreya14](https://twitter.com/shrreya14).
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
@@ -14,4 +14,4 @@ Feel free to reach out to me on Twitter: [@shrreya14](https://twitter.com/shrrey
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
 
 ## Want to change other habits? 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+Check out the [#100DaysOfX Challenges Project](http://100daysofx.com/). By changing your habits, you are changing your life. Remember that the best time to start is always NOW.

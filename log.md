@@ -37,3 +37,22 @@
 **Link(s) to work**
 1. [Outreachy](https://www.outreachy.org/)
 
+### Day 5: March 12, 2018 Monday
+
+**Today's Progress**: Began my first Kotlin development course. Worked on converting a note taking application written in Java to Kotlin.
+
+**Thoughts**: Always feels good to learn new programming languages. And wow, such clean code!
+
+**Link(s) to work**
+1. [Course: Kotlin for Android Developers](https://udacity.com/course/kotlin-for-android-developers--ud888)
+2. [Kotlin Notepad](https://github.com/Shrreya/kotlin-notepad)
+
+### Day 6: March 13, 2018 Tuesday
+
+**Today's Progress**: Continued working on yesterday's Kotlin project and completed it.
+
+**Thoughts**: Must maintain this pace of learning and development.
+
+**Link(s) to work**
+1. [Kotlin Notepad](https://github.com/Shrreya/kotlin-notepad)
+

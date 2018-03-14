@@ -56,3 +56,13 @@
 **Link(s) to work**
 1. [Kotlin Notepad](https://github.com/Shrreya/kotlin-notepad)
 
+### Day 7: March 14, 2018 Wednesday
+
+**Today's Progress**: Explored Open Data Kit and their projects. Made a contribution to the ODK Collect app.
+
+**Thoughts**: Must get myself involved more in open source communities to both prove & improve my skills.
+
+**Link(s) to work**
+1. [ODK Collect](https://github.com/Shrreya/collect)
+2. [My contribution](https://github.com/opendatakit/collect/pull/2017)
+

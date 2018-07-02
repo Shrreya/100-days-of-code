@@ -6,6 +6,9 @@
 #### Start Date
 March 6th, 2018.
 
+#### Reboot Date
+July 1st, 2018.
+
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.

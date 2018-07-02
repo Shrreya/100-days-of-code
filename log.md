@@ -75,3 +75,19 @@
 **Link(s) to work**
 1. [Course: Android Performance](https://classroom.udacity.com/courses/ud825)
 2. [Course: UX Design for Mobile Developers](https://classroom.udacity.com/courses/ud849)
+
+---
+
+## Rebooting 100 Days Of Code
+
+Life got in the way, and I couldn't sustain the challenge. However, I don't wish to give up. Hence, this is my second attempt at the challenge. Better late than never!
+
+### Day 1: July 1, 2018 Sunday
+
+**Today's Progress**: Participated in a coding challenge on HackerEarth. Built an Android app to search & browse crafted beers. I took 3 hours in the timed challenge.
+
+**Thoughts**: Learned that Glide can help in working with GIFs in Android. Also, it was fun to tinker around with RecyclerView after a long time. Felt happy that I haven't forgotten my Java and Android skills.
+
+**Link(s) to work**
+1. [BeerCraft](https://github.com/Shrreya/BeerCraft)
+2. [HackerEarth challenge](https://www.hackerearth.com/challenge/hiring/thoughtworks-mobile-developer-hiring-challenge-1/)

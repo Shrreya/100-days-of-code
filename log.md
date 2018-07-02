@@ -66,3 +66,12 @@
 1. [ODK Collect](https://github.com/Shrreya/collect)
 2. [My contribution](https://github.com/opendatakit/collect/pull/2017)
 
+### Day 8: March 23, 2018 Friday
+
+**Today's Progress**: Getting back on track with some practice of design-minded development and performance optimisation.
+
+**Thoughts**: Was once asked in a job interview to describe a performance optimisation situation. Always wanted to study Android performance since then. Glad to find these courses on Udacity.
+
+**Link(s) to work**
+1. [Course: Android Performance](https://classroom.udacity.com/courses/ud825)
+2. [Course: UX Design for Mobile Developers](https://classroom.udacity.com/courses/ud849)

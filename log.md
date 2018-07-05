@@ -91,3 +91,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 **Link(s) to work**
 1. [BeerCraft](https://github.com/Shrreya/BeerCraft)
 2. [HackerEarth challenge](https://www.hackerearth.com/challenge/hiring/thoughtworks-mobile-developer-hiring-challenge-1/)
+
+### Day 2: July 5, 2018 Thursday
+
+**Today's Progress**: Built a new feature for the BeerCraft app to sort the list of beers by name and alcoholic content.
+
+**Thoughts**: Learned how to use lambda expressions with Java 8 for Android. This is a good way to reduce boilerplate code. Since I have been writing more Javascript & ES6 recently, it felt good to lose this pain in Java.
+
+**Link(s) to work**
+1. [BeerCraft](https://github.com/Shrreya/BeerCraft)

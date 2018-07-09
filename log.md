@@ -100,3 +100,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [BeerCraft](https://github.com/Shrreya/BeerCraft)
+
+### Day 3: July 9, 2018 Monday
+
+**Today's Progress**: Fixed bugs and completed the sorting feature of the BeerCraft app.
+
+**Thoughts**: Was stuck with the default sort option for a long time, it was a good revision of Java's reference assignment of objects/variables. Meanwhile, I received the news from HackerEarth that I've been shortlisted in the coding challenge. This has been a major confidence booster for me. Small wins matter!
+
+**Link(s) to work**
+1. [BeerCraft](https://github.com/Shrreya/BeerCraft)

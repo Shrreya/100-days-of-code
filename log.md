@@ -109,3 +109,13 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [BeerCraft](https://github.com/Shrreya/BeerCraft)
+
+### Day 4: July 10, 2018 Tuesday
+
+**Today's Progress**: Started working on a new project in the React Nanodegree Program by Udacity. A web app to play the "Would You Rather?" game. Using React & Redux.
+
+**Thoughts**: Feeling a bit jittery about this project. It needs to be well planned and architected. Must grasp React + Redux concepts well. Aiming to finish the project by the weekend.
+
+**Link(s) to work**
+1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
+2. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

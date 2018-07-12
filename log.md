@@ -119,3 +119,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 **Link(s) to work**
 1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
 2. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 5: July 12, 2018 Thursday
+
+**Today's Progress**: Set up first actions, reducers & middleware for the Would You Rather project. Worked on the login screen with Material UI.
+
+**Thoughts**: I struggle with creating views for the web while I'm much more comfortable doing the same for mobile apps. So, I guess that means this is an area I must practice more on.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

@@ -128,3 +128,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 6: July 13, 2018 Friday
+
+**Today's Progress**: Completed the login page and started working on the home page. Made choices between where to use material UI and where to use good old raw CSS.
+
+**Thoughts**: Realised that overriding default CSS in Material UI is not always straightforward and can actually be a bottleneck in the coding process. Must spend time researching on good UI libraries. Nevertheless, I enjoy design.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

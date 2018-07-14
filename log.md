@@ -137,3 +137,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 7: July 14, 2018 Saturday
+
+**Today's Progress**: Halfway through building the dashboard screen now. Taking a steady approach by tinkering with Material UI components in CodePen before implementing in project. Also, building static components first to fix the design and then populating content from the store.
+
+**Thoughts**: I'm finally getting productive again but not as much as I can be. Must improve my pace of coding, must set more deadlines for self.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

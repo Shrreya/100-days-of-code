@@ -146,3 +146,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 8: July 15, 2018 Sunday
+
+**Today's Progress**: Didn't code much today except for some CSS changes and upgrading one of the React components.
+
+**Thoughts**: I've made 40+ commits in the last week since rebooting the challenge and this is huge progress from where I was the last time. Also, I gave up on day 8 last time and that shall not happen again this time. 
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

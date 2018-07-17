@@ -155,3 +155,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 9: July 17, 2018 Tuesday
+
+**Today's Progress**: Worked on new components, spent some time with design. Also, identified some bugs that need fixing.
+
+**Thoughts**: Took a day off and have ended up slowing down further. I have two hackathons lined up at the end of this week, so I must finish this project by Thursday. Not sure, if it is possible. 
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

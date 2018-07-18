@@ -164,3 +164,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 10: July 18, 2018 Wednesday
+
+**Today's Progress**: Completed a major feature, that is, answering of questions. However, lots of bugs yet to be fixed in order to make the app foolproof.
+
+**Thoughts**: I am understanding Redux much better now, having written a complex reducer function today. mapStateToProps is my new favourite concept, now that I've actually leveraged its power in one of the components. Time management is still an issue that needs to be improved upon.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

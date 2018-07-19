@@ -173,3 +173,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 11: July 19, 2018 Thursday
+
+**Today's Progress**: Refactored the login logic and data fetch logic in my project. More bugs to fix regarding data persistence & routing.
+
+**Thoughts**: I'm feeling much more confident about my Javascript and frontend skills these days. This is something I've struggled with a lot in the past. Now I realise it was only my own fear holding me back. I always knew I'm a polyglot developer and can pick up any new programming language or framework. I'm thinking about the Node.js masterclass, coding without any packages, frameworks or dependencies.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

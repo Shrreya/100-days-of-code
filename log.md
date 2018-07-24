@@ -182,3 +182,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 12: July 24, 2018 Tuesday
+
+**Today's Progress**: Resumed work on the Udacity project today.
+
+**Thoughts**: I gave up on the hackathons that I thought I would take up during the weekend because I did not feel ready. I feel now I am taking too long to finish the Udacity project. This calls for fixing my routine & time management to fit more hours in the day for coding.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

@@ -191,3 +191,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 13: July 25, 2018 Wednesday
+
+**Today's Progress**: Finished all the pages of the Would You Rather app. Final bug fixes left now.
+
+**Thoughts**: What a productive day! 14 commits. And finally the app works from start to end. Feeling accomplished.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

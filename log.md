@@ -200,3 +200,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 14: July 28, 2018 Saturday
+
+**Today's Progress**: Started with a pre-work assignment for a job application. This is a web app to create & discover volunteering opportunities. Set up the backend today using Parse server.
+
+**Thoughts**: It was good to write some Node.js & revise my DevOps knowledge. I feel more confident of competitive coding & hiring challenges these days.
+
+**Link(s) to work**
+1. [TFI Volunteer Backend](https://github.com/Shrreya/tfi-volunteer-backend)

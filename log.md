@@ -209,3 +209,14 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [TFI Volunteer Backend](https://github.com/Shrreya/tfi-volunteer-backend)
+
+### Day 15: July 29, 2018 Sunday
+
+**Today's Progress**: Spent first half of the day on the frontend of the TFI volunteer app. Later in the evening, participated in another coding challenge on HackerEarth. Built a full stack web app for listing different types of wines.
+
+**Thoughts**: This weekend was a complete MERN stack marathon! And I think I aced it.
+
+**Link(s) to work**
+1. [TFI Volunteer Frontend](https://github.com/Shrreya/tfi-volunteer-frontend)
+2. [Wine Connoisseur](https://github.com/Shrreya/Wine-Connoisseur)
+3. [HackerEarth challenge](https://www.hackerearth.com/challenge/hiring/schlumberger-women-developer-hiring-challenge/)

@@ -220,3 +220,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 1. [TFI Volunteer Frontend](https://github.com/Shrreya/tfi-volunteer-frontend)
 2. [Wine Connoisseur](https://github.com/Shrreya/Wine-Connoisseur)
 3. [HackerEarth challenge](https://www.hackerearth.com/challenge/hiring/schlumberger-women-developer-hiring-challenge/)
+
+### Day 16: July 30, 2018 Monday
+
+**Today's Progress**: Completed all frontend code for the pre-work assignment. Ready to submit it first thing tomorrow morning. Hope I get the job!
+
+**Thoughts**: It feels incredible to complete a full stack application from start to end.
+
+**Link(s) to work**
+1. [TFI Volunteer Frontend](https://github.com/Shrreya/tfi-volunteer-frontend)

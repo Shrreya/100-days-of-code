@@ -229,3 +229,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [TFI Volunteer Frontend](https://github.com/Shrreya/tfi-volunteer-frontend)
+
+### Day 17: August 6, 2018 Monday
+
+**Today's Progress**: Resumed my Udacity project. Completed all high level TODOs.
+
+**Thoughts**: After a highly productive set of days, I gave into emotional distress again and stopped coding for a while. This sucks! I think I should have at least one continuous streak of 10 days in the challenge.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

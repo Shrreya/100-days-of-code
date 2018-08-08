@@ -238,3 +238,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 18: August 7, 2018 Tuesday
+
+**Today's Progress**: Finally! Submitted the Udacity project. Also, gave a daunting technical interview today.
+
+**Thoughts**: I have immensely enjoyed working on this Udacity project. 85 code commits. I gotta pat myself on the back. Now hoping I also get the job.
+
+**Link(s) to work**
+1. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

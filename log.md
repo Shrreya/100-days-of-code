@@ -257,3 +257,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 ### Day 20: August 10, 2018 Friday
 
 **Today's Progress & Thoughts**: Today calls for a celebration. I got the job! Technology Consultant at Teach For India.
+
+### Day 21: August 16, 2018 Thursday
+
+**Today's Progress**: Started the React Native lessons in the React Nanodegree. Set up expo & dev environments, learning by building a fitness tracking app.
+
+**Thoughts**: Hoping to finish the final project in a week. Need to wrap up current state of projects in the next two weeks so that I am in a good place to start my new job in September. Ofcourse I will keep the challenge going till I complete 100 days.
+
+**Link(s) to work**
+1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)

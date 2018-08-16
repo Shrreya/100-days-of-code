@@ -253,3 +253,7 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 **Today's Progress**: Updated some old project repos.
 
 **Thoughts**: Not only did I receive an amazing project review from Udacity but also heard back that I cleared yesterday's technical interview. Today has been a real day of acheivement after what feels like a very long long time.
+
+### Day 20: August 10, 2018 Friday
+
+**Today's Progress & Thoughts**: Today calls for a celebration. I got the job! Technology Consultant at Teach For India.

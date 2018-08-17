@@ -266,3 +266,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
+
+### Day 22: August 17, 2018 Friday
+
+**Today's Progress**: Built one complete screen of my first React Native app.
+
+**Thoughts**: I have avoided React Native for a long time for no good reason. Feels good to finally get a grasp. It is enjoyable because fundamentally it is just Javascript & can leverage the company of Redux.
+
+**Link(s) to work**
+1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)

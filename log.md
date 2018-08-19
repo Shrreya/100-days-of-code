@@ -275,3 +275,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
+
+### Day 23: August 18, 2018 Saturday
+
+**Today's Progress**: Started with styling and CSS in JS.
+
+**Thoughts**: Struggling with headaches these days. It is affecting my concentration.
+
+**Link(s) to work**
+1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)

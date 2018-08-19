@@ -284,3 +284,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
+
+### Day 24: August 19, 2018 Sunday
+
+**Today's Progress**: Completed two major lessons, Styling & Navigation in React Native.
+
+**Thoughts**: Aiming to start the final project in the Nanodegree tomorrow. Hopefully finish it within 3 days.
+
+**Link(s) to work**
+1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)

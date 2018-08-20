@@ -293,3 +293,13 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
+
+### Day 25: August 20, 2018 Monday
+
+**Today's Progress**: Completed all React Native lessons. Ready to start working on the final project. Also updated previous project repository.
+
+**Thoughts**: Today I took the courage to share few screenshots of my previous project on Twitter. A little bit of show off is not bad, the introvert in me struggles with the idea.
+
+**Link(s) to work**
+1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
+2. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)

@@ -303,3 +303,13 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 **Link(s) to work**
 1. [React Nanodegree](https://in.udacity.com/course/react-nanodegree--nd019)
 2. [Would You Rather](https://github.com/Shrreya/Would-You-Rather)
+
+### Day 26: August 21, 2018 Tuesday
+
+**Today's Progress**: Fixed old projects, could not start with new Udacity project.
+
+**Thoughts**: I'm already getting overwhelmed with the projects I have stacked up. I have to manage my time better, given that it is going to get very hectic from September.
+
+**Link(s) to work**
+1. [My Reads](https://github.com/Shrreya/MyReads)
+2. [Wine Connoisseur](https://github.com/Shrreya/Wine-Connoisseur)

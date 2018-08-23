@@ -313,3 +313,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 **Link(s) to work**
 1. [My Reads](https://github.com/Shrreya/MyReads)
 2. [Wine Connoisseur](https://github.com/Shrreya/Wine-Connoisseur)
+
+### Day 27: August 23, 2018 Thursday
+
+**Today's Progress**: Started working on the Udacity React Native Project.
+
+**Thoughts**: Enjoying development with React Native. Indeed such a saviour to have code running on both Android & iOS at once. 
+
+**Link(s) to work**
+1. [Flashcards](https://github.com/Shrreya/Flashcards)

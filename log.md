@@ -322,3 +322,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Flashcards](https://github.com/Shrreya/Flashcards)
+
+### Day 28: August 25, 2018 Saturday
+
+**Today's Progress**: Continued working on the Udacity React Native Project.
+
+**Thoughts**: Wondering if my productivity in React Native coding will ever match that of my Android Native coding. Then again, it was practice that increased my productivity in the first place. I can be too much of a perfectionist at times.
+
+**Link(s) to work**
+1. [Flashcards](https://github.com/Shrreya/Flashcards)

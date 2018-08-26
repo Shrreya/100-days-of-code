@@ -331,3 +331,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Flashcards](https://github.com/Shrreya/Flashcards)
+
+### Day 29: August 26, 2018 Sunday
+
+**Today's Progress**: Tinkering with navigations & screen designs for the Flashcards app.
+
+**Thoughts**: Technically it is Monday morning now but we still call it Sunday night. Not proud of becoming a night owl again, must reset my routine once I reach Mumbai. Good thing that I have a morning flight!
+
+**Link(s) to work**
+1. [Flashcards](https://github.com/Shrreya/Flashcards)

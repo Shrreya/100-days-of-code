@@ -340,3 +340,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Flashcards](https://github.com/Shrreya/Flashcards)
+
+### Day 30: August 27, 2018 Monday
+
+**Today's Progress**: Started working on the Quiz section of the Flashcards app.
+
+**Thoughts**: Feels like the last leg of the marathon now. Must complete this project before going to Mumbai.
+
+**Link(s) to work**
+1. [Flashcards](https://github.com/Shrreya/Flashcards)

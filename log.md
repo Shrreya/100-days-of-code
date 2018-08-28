@@ -349,3 +349,12 @@ Life got in the way, and I couldn't sustain the challenge. However, I don't wish
 
 **Link(s) to work**
 1. [Flashcards](https://github.com/Shrreya/Flashcards)
+
+### Day 31: August 28, 2018 Tuesday
+
+**Today's Progress**: Completed & submitted the Flashcards project.
+
+**Thoughts**: I am so excited to graduate in the Nanodegree that I have worked so hard for in the last 3 months. This is indeed a major milestone for me.
+
+**Link(s) to work**
+1. [Flashcards](https://github.com/Shrreya/Flashcards)
